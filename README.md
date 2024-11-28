@@ -6,6 +6,7 @@ Siapkan Direktori Sumber dan Backup
 
 Pilih direktori sumber yang ingin dibackup (misalnya, /home/user/documents).
 Tentukan lokasi untuk menyimpan backup (misalnya, /home/user/backup).
+
 Langkah 2: Tulis Skrip
 Buka terminal dan buat file baru untuk skrip:
 
